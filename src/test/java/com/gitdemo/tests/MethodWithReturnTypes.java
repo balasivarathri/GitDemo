@@ -13,6 +13,7 @@ public class MethodWithReturnTypes {
 		
 		String s=MethodWithReturnTypes.alphanumeric("bala", 45);
 		System.out.println(s);
+		System.out.println("Hi Demo mama");
 		
 }
 	
@@ -28,5 +29,6 @@ public class MethodWithReturnTypes {
 		String s = name+b;
 		return s;
 	}
+	
 	
 }
