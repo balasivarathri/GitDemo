@@ -8,6 +8,7 @@ public class ToFindMiddelnumber {
 	        Scanner in = new Scanner(System.in);
 	        System.out.print("Input a string: ");
 	        String str = in.nextLine();
+	        String str1 = in.nextLine();
 	        System.out.print("The middle character in the string: " + middle(str)+"\n");
 	    }
 	 public static String middle(String str)
@@ -26,4 +27,5 @@ public class ToFindMiddelnumber {
 	        }
 	        return str.substring(position, position + length);
 	   }
+	 
 }
