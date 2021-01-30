@@ -23,6 +23,8 @@ public class Methods {
 		System.out.println(name+number);
 		System.out.println(name+number);
 		System.out.println(name+number);
+		System.out.println(name+number);
+		System.out.println(name+number);
 	}
 	
 }
