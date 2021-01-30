@@ -21,8 +21,8 @@ public class Methods {
 	public void alphaNumeric(String name  , int number) {		
 		
 		System.out.println(name+number);
-		System.out.println(name+number);
-		System.out.println(name+number);
+		System.out.println("balakrihna");
+		
 	}
 	
 }

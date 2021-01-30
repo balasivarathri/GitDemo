@@ -10,6 +10,7 @@ public class ToFindMiddelnumber {
 	        String str = in.nextLine();
 	        String str1 = in.nextLine();
 	        System.out.print("The middle character in the string: " + middle(str)+"\n");
+	        System.out.println("Hi Demo mama");
 	    }
 	 public static String middle(String str)
 	    {
